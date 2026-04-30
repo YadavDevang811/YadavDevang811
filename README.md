@@ -1,9 +1,9 @@
 # Hi 👋 I am Devang
 
 ## 🚀 About Me
-- I am learning Web Development
-- I like building websites
-- I am improving my JavaScript skills
+- I am a Web Development in the path of become full stack dev
+- I like building and testing and debugging websites
+- I am improving my JavaScript/java/DSA/DOM skills
 
 ---
 
