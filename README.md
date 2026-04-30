@@ -15,8 +15,4 @@
 
 ---
 
-## 💻 My First Code
 
-```js
-console.log("Hello World");
-```
