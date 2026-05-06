@@ -1,54 +1,50 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0070F3,100:00C6FF&height=200&section=header&text=Hi%20there,%20I'm%20Devang!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" /> 
-  <h1>Hi there, I'm Devang!</h1>
+  <!-- Ek akela tech boy emoji -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Tech Boy" width="50" />
 </div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0070F3&center=true&vCenter=true&width=500&lines=I+am+a+Developer;Building+Full-Stack+Applications;Exploring+New+Technologies" alt="Typing SVG" />
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YadavDevang811&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0070F3&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;Crafting+Elegant+Code;Building+Scalable+Applications;Always+learning+new+tech" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-<table>
-  <tr>
-    <td width="60%">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>🔭 I’m currently building cool full-stack applications.</li>
-        <li>🌱 I’m deep diving into <b>React, Node.js, and modern databases</b>.</li>
-        <li>💬 Ask me about <b>JavaScript, Web Development, or QA</b>.</li>
-        <li>📫 How to reach me: <b><a href="www.linkedin.com/in/devang08">LinkedIn</a></b></li>
-        <li>⚡ Fun fact: I love optimizing things, whether it's code performance or a database query!</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Coding GIF" width="250" />
-    </td>
-  </tr>
-</table>
+### 👨‍💻 A Bit About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="30" />
 
-### 🛠️ My Tech Stack
+I am an enthusiastic developer who loves building web applications from scratch and solving complex problems with efficient, clean code.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,postgres,supabase,git,github" alt="Tech Stack Icons" />
-  </a>
-</p>
+- 🌱 Currently focusing on sharpening my skills in **Java, React, and Node.js**.
+- 🚀 Aiming to build modern, scalable, and secure software solutions.
+- 💬 Ask me about **JavaScript, Frontend basics, or problem-solving**.
+- 📫 How to reach me: **[www.linkedin.com/in/devang08]**
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YadavDevang811&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YadavDevang811&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-trophies.vercel.app/?username=YadavDevang811&theme=radical&no-frame=true&margin-w=15" alt="trophies" />
 </div>
 
-<br/>
+### 🛠️ My Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs&theme=dark" alt="skills" />
+</p>
+<p><b>Databases & Other Skills:</b> Basic SQL, Software Testing</p>
+
+### 📊 My GitHub Activity <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" />
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinhtv3/trinhtv3/main/image/line-1.gif" width="100%" alt="Line break" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YadavDevang811&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YadavDevang811&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="top languages graph" />
+</div>
+
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YadavDevang811&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
